@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace YAIEC_browser
 {
-    public partial class Form1 : Form
+    public partial class Browser : Form
     {
-        public Form1()
+        public Browser()
         {
             InitializeComponent();
         }
